@@ -5,7 +5,7 @@
   Never put a Supabase service_role/secret key in this public file.
 */
 window.RKS_CONFIG = {
-  SUPABASE_URL: "https://YOUR-PROJECT-REF.supabase.co",
-  SUPABASE_PUBLISHABLE_KEY: "YOUR_SUPABASE_PUBLISHABLE_OR_ANON_KEY",
-  MESSENGER_URL: "https://m.me/YOUR_RKS_CATERING_PAGE_USERNAME"
+  SUPABASE_URL: "https://zfzrbmepqtghoylispkk.supabase.co",
+  SUPABASE_PUBLISHABLE_KEY: "sb_publishable_GOIaX7X3XXlo2peHIaRe6Q_kGeIZ9vd",
+  MESSENGER_URL: "https://www.facebook.com/RKSCateringservices"
 };
